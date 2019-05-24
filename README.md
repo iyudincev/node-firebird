@@ -77,6 +77,7 @@ options.password = 'masterkey';
 options.lowercase_keys = false; // set to true to lowercase keys
 options.role = null;            // default
 options.pageSize = 4096;        // default when creating database
+options.fsEncoding = 'utf8';    // default (set to 'windows-1251' if the server is running on Windows)
 
 ```
 

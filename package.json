@@ -30,6 +30,7 @@
     }
   ],
   "dependencies": {
+    "iconv-lite": "^0.4.23",
     "long": "^2.2.5"
   }
 }
